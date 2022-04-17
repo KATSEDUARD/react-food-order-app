@@ -5,3 +5,5 @@
 
 
 DB: https://food-order-react-ec288-default-rtdb.europe-west1.firebasedatabase.app/
+
+Visit the website: https://katseduard.github.io/react-food-order-app/
